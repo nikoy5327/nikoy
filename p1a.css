@@ -3,10 +3,10 @@
 	margin: 0;
 }
 body {
- 	/*font: Tahoma;*/
+ 	font: Tahoma;
  	color: red;
 }
-/*
+
 
 a {
   display: Block;
@@ -42,4 +42,3 @@ th {
   td.hidden {
     display: none;
 }
-*/
