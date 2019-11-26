@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+ 	/*font: Tahoma;*/
+ 	color: red;
+}
+/*
+
+a {
+  display: Block;
+}
+
+.email:hover { 
+	color: #cc6600; 
+    }
+
+table {
+ 
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  height: 10px;
+  width: 100%;
+  margin: auto;
+}
+
+th {
+  margin: auto;
+  border-collapse: collapse; 
+  text-align: center;
+  padding: 10px;
+  height: 10px;
+  background-color:#687290;
+}
+ 
+  tr:nth-child(odd)
+   {background-color: #eeeff4;}
+  tr:nth-child(even)
+   {background-color: #dfe1e8;}
+  td.hidden {
+    display: none;
+}
+*/
